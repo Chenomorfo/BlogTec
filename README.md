@@ -61,9 +61,9 @@ pages
 Existe una diversa variedad de frameworks soportados en Astro, pero actualmente se incorporaron 3 frameworks por comodidad, conocimiento o por meramente experimentar algo nuevo con lo que trabajar.
 
 <div style="height:50px">
-<img src="https://gitlab.com/uploads/-/system/group/avatar/10896369/React.png">
-<img src="https://www.geekandjob.com/uploads/wiki/81d4003ffa25ea82868e1786f043d4c0.png">
-<img src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.9.1/1666201751061/Microsoft.VisualStudio.Services.Icons.Default">
+<img height=48 src="https://gitlab.com/uploads/-/system/group/avatar/10896369/React.png">
+<img height=48 src="https://www.geekandjob.com/uploads/wiki/81d4003ffa25ea82868e1786f043d4c0.png">
+<img height=48 src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.9.1/1666201751061/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
 
 - [React](https://react.dev/learn)
